@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e650becd6cb0abfa675e83a99c59cc94",
+    "revision": "53608869b2466e2a1ba53b162f170268",
     "url": "/calvang-main/index.html"
   },
   {
-    "revision": "297c543548cef2145ab6",
+    "revision": "fcf8044cd5e54ccb5523",
     "url": "/calvang-main/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calvang-main/static/js/2.119a99ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "297c543548cef2145ab6",
-    "url": "/calvang-main/static/js/main.24b9c2da.chunk.js"
+    "revision": "fcf8044cd5e54ccb5523",
+    "url": "/calvang-main/static/js/main.1847addb.chunk.js"
   },
   {
     "revision": "b600366bdf2cff939784",
