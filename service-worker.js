@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/calvang-main/precache-manifest.caa797e1d41cdf38e40a0149028e0cd6.js"
+  "/calvang-main/precache-manifest.500536ec8c5526eff8e69145e980fd6c.js"
 );
 
 self.addEventListener('message', (event) => {

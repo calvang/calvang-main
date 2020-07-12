@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de5273659e76cf50e5818e4a32079d36",
+    "revision": "fae25064c6692d4a057cc2da826affac",
     "url": "/calvang-main/index.html"
   },
   {
-    "revision": "8bf520ccf0b8a5a8fdc4",
+    "revision": "55d4ad40547b691931c8",
     "url": "/calvang-main/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calvang-main/static/js/2.61aff804.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8bf520ccf0b8a5a8fdc4",
-    "url": "/calvang-main/static/js/main.cbd7f620.chunk.js"
+    "revision": "55d4ad40547b691931c8",
+    "url": "/calvang-main/static/js/main.6332cbd5.chunk.js"
   },
   {
     "revision": "b600366bdf2cff939784",
     "url": "/calvang-main/static/js/runtime-main.8b1ea684.js"
   },
   {
-    "revision": "97fd379bf27742d4f5e0073ca4ebcb49",
-    "url": "/calvang-main/static/media/logo.97fd379b.png"
+    "revision": "86cb130a7d67b876ed84d8e9b5640d0a",
+    "url": "/calvang-main/static/media/logo.86cb130a.png"
   }
 ]);
