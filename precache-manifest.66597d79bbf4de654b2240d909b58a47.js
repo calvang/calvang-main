@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9ecb5c8af284b83ea721b95125c04fa",
+    "revision": "a9535300a64ac6f1c2c81b316bdf7a26",
     "url": "/calvang-main/index.html"
   },
   {
-    "revision": "7d9402d8dee4a6910930",
-    "url": "/calvang-main/static/css/main.3cd8c1b0.chunk.css"
+    "revision": "b8bf4bdf22e089ad2c49",
+    "url": "/calvang-main/static/css/main.23c75bda.chunk.css"
   },
   {
-    "revision": "aba7708ee53860e78f08",
-    "url": "/calvang-main/static/js/2.aa57698a.chunk.js"
+    "revision": "3d3c9507e51b8bb32e50",
+    "url": "/calvang-main/static/js/2.54e6bec6.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/calvang-main/static/js/2.aa57698a.chunk.js.LICENSE.txt"
+    "url": "/calvang-main/static/js/2.54e6bec6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d9402d8dee4a6910930",
-    "url": "/calvang-main/static/js/main.b48d5bdb.chunk.js"
+    "revision": "b8bf4bdf22e089ad2c49",
+    "url": "/calvang-main/static/js/main.14dbb502.chunk.js"
   },
   {
     "revision": "b600366bdf2cff939784",
