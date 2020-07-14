@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70e7770527e92b35c0314a6fe28499bd",
+    "revision": "89895374db4558c5c5fb9bc922953f89",
     "url": "/calvang-main/index.html"
   },
   {
