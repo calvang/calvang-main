@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/calvang-main/static/css/main.955d4d49.chunk.css",
+    "main.css": "/calvang-main/static/css/main.5b5aa00b.chunk.css",
     "main.js": "/calvang-main/static/js/main.8780ad8d.chunk.js",
     "main.js.map": "/calvang-main/static/js/main.8780ad8d.chunk.js.map",
     "runtime-main.js": "/calvang-main/static/js/runtime-main.8b1ea684.js",
@@ -8,16 +8,16 @@
     "static/js/2.aa024888.chunk.js": "/calvang-main/static/js/2.aa024888.chunk.js",
     "static/js/2.aa024888.chunk.js.map": "/calvang-main/static/js/2.aa024888.chunk.js.map",
     "index.html": "/calvang-main/index.html",
-    "precache-manifest.06c7a3b0bf90761766d19ec2338fc674.js": "/calvang-main/precache-manifest.06c7a3b0bf90761766d19ec2338fc674.js",
+    "precache-manifest.84490e42661eecabeac011e587787c8f.js": "/calvang-main/precache-manifest.84490e42661eecabeac011e587787c8f.js",
     "service-worker.js": "/calvang-main/service-worker.js",
-    "static/css/main.955d4d49.chunk.css.map": "/calvang-main/static/css/main.955d4d49.chunk.css.map",
+    "static/css/main.5b5aa00b.chunk.css.map": "/calvang-main/static/css/main.5b5aa00b.chunk.css.map",
     "static/js/2.aa024888.chunk.js.LICENSE.txt": "/calvang-main/static/js/2.aa024888.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/calvang-main/static/media/neonMetal.e0362b30.webp"
+    "static/media/Home.css": "/calvang-main/static/media/neonMetal.62e31a67.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.8b1ea684.js",
     "static/js/2.aa024888.chunk.js",
-    "static/css/main.955d4d49.chunk.css",
+    "static/css/main.5b5aa00b.chunk.css",
     "static/js/main.8780ad8d.chunk.js"
   ]
 }

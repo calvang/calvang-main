@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7f6d21a9bed4099d559ce9356e650e2",
+    "revision": "70e7770527e92b35c0314a6fe28499bd",
     "url": "/calvang-main/index.html"
   },
   {
-    "revision": "e651a9bf18d30357ec60",
-    "url": "/calvang-main/static/css/main.955d4d49.chunk.css"
+    "revision": "866afae49acadccc09a8",
+    "url": "/calvang-main/static/css/main.5b5aa00b.chunk.css"
   },
   {
     "revision": "8569f7757aef1c72d420",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calvang-main/static/js/2.aa024888.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e651a9bf18d30357ec60",
+    "revision": "866afae49acadccc09a8",
     "url": "/calvang-main/static/js/main.8780ad8d.chunk.js"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calvang-main/static/js/runtime-main.8b1ea684.js"
   },
   {
-    "revision": "bd44e8ddd4310b1c404776579017fe3f",
-    "url": "/calvang-main/static/media/darkGlass.bd44e8dd.webp"
+    "revision": "86fae41c723448ac273457b0cf4c2275",
+    "url": "/calvang-main/static/media/darkGlass.86fae41c.webp"
   },
   {
-    "revision": "e0362b308f7a7764c795c2d44f7ee6b3",
-    "url": "/calvang-main/static/media/neonMetal.e0362b30.webp"
+    "revision": "62e31a6798dc4299b6ebae2b409176ca",
+    "url": "/calvang-main/static/media/neonMetal.62e31a67.webp"
   }
 ]);
