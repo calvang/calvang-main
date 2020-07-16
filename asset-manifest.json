@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/calvang-main/static/css/main.7ed7c50f.chunk.css",
-    "main.js": "/calvang-main/static/js/main.c76378ab.chunk.js",
-    "main.js.map": "/calvang-main/static/js/main.c76378ab.chunk.js.map",
+    "main.css": "/calvang-main/static/css/main.7de2a9b8.chunk.css",
+    "main.js": "/calvang-main/static/js/main.f20e8ecd.chunk.js",
+    "main.js.map": "/calvang-main/static/js/main.f20e8ecd.chunk.js.map",
     "runtime-main.js": "/calvang-main/static/js/runtime-main.8b1ea684.js",
     "runtime-main.js.map": "/calvang-main/static/js/runtime-main.8b1ea684.js.map",
     "static/js/2.26b02dfa.chunk.js": "/calvang-main/static/js/2.26b02dfa.chunk.js",
     "static/js/2.26b02dfa.chunk.js.map": "/calvang-main/static/js/2.26b02dfa.chunk.js.map",
     "index.html": "/calvang-main/index.html",
-    "precache-manifest.da59a296ba79658fee1e33b8e2e7b2aa.js": "/calvang-main/precache-manifest.da59a296ba79658fee1e33b8e2e7b2aa.js",
+    "precache-manifest.b3249b851f5af8564a81cf50d08753df.js": "/calvang-main/precache-manifest.b3249b851f5af8564a81cf50d08753df.js",
     "service-worker.js": "/calvang-main/service-worker.js",
-    "static/css/main.7ed7c50f.chunk.css.map": "/calvang-main/static/css/main.7ed7c50f.chunk.css.map",
+    "static/css/main.7de2a9b8.chunk.css.map": "/calvang-main/static/css/main.7de2a9b8.chunk.css.map",
     "static/js/2.26b02dfa.chunk.js.LICENSE.txt": "/calvang-main/static/js/2.26b02dfa.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/calvang-main/static/media/neonMetal.62e31a67.webp",
     "static/media/Projects.css": "/calvang-main/static/media/metalWaves.32cfc0cd.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.8b1ea684.js",
     "static/js/2.26b02dfa.chunk.js",
-    "static/css/main.7ed7c50f.chunk.css",
-    "static/js/main.c76378ab.chunk.js"
+    "static/css/main.7de2a9b8.chunk.css",
+    "static/js/main.f20e8ecd.chunk.js"
   ]
 }
